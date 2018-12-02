@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sumit Dugar"
   avatar           : "profile.jpg"
-  bio              : "Msc Technical University of Munich"
+  bio              : "Software Engineer"
   location         : "Munich"
-  # employer         :
+  employer         : "Technical University of Munich"
   # googlescholar    : 
   email            : "dugar.sumit1990@gmail.com"
   # uri              :
@@ -92,14 +92,14 @@ author:
   # codepen          :
   # dribbble         :
   # flickr           :
-  facebook         : "https://www.facebook.com/dugarsumit1990"
+  facebook         : "dugarsumit1990"
   # foursquare       :
   github           : "dugarsumit"
   # google_plus      :
   # keybase          :
-  instagram        : "https://www.instagram.com/stills.png"
+  instagram        : "stills.png"
   # lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sumit-dugar-86872654/"
+  linkedin         : "sumit-dugar-86872654/"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
