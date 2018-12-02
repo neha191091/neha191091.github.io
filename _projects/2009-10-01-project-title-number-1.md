@@ -1,6 +1,6 @@
 ---
 title: "Project Title Number 1"
-collection: talks
+collection: projects
 permalink: /projects/2009-10-01-project-title-number-1
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
