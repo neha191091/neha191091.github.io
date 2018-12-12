@@ -19,7 +19,7 @@ main:
   #   url: /year-archive/
     
     - title: "CV"
-      url: /cv/resume.pdf
+      url:  https://neha191091.github.io/files/cv.pdf
 
   # - title: "Hello"
   #   url: /hello/
