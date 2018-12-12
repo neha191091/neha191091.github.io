@@ -1,32 +1,21 @@
 ---
-title: "Interdisciplinary Project Report: 3D Human Body Segmentation"
+title: "Seminar: Deep Learning Sequence Modelling (Natural Language Processing)"
 collection: publications
-permalink: /publication/2018-07-28-threed-human-segmentation
-excerpt: 'The work presented in this report is a part of an effort towards a tool that allows a real-time view into a patient's body for inter-operative guidance.'
-date: 2018-07-28
-paperurl: 'http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf'
+permalink: /publication/2018-06-28-seminal-deep-learning-sequence-nlp
+excerpt: 'This work explores the literature around deep learning sequence models, especially in context of NLP'
+date: 2018-06-28
+paperurl: 'http://neha191091.github.io/files/seminar-nlp.pdf'
 ---
 *Abstract*
 
-Development of systems that are equipped to provide a view into a patient’s body
-form an essential part of the technological advancements needed to improve medical 
-diagnosis and reduce invasive surgery. While volumetric imaging of a patient’s
-anatomy via Computed Tomography or Magnetic Resonance Imaging have achieved
-this goal to an extent, there is a growing need for combining such medical data via
-Augmented Reality Systems and Head Mounted Displays with the real-time view of
-the patient’s form. Applications of such an implementation include surgery planning
-and inter-operative guidance systems.
+Recent experiments with deep learning techniques in the field of sequence modelling tasks in
+Natural Language Processing (NLP) such as machine translation and text summarizing have been
+quite successful and have produced improved results over classical methods. This work will take
+a look at the various deep learning architectures and constructs used to model sequences and aid
+tasks that involve processing and/or producing sequence data, especially in context of NLP. It
+would additionally explore in detail, an application of sequence-to-sequence NLP - abstractive
+text summarization - with particular emphasis on methods from Nallapati et al. (2016)
 
-An essential component of an implementation of the aforementioned Medical Augmented Reality 
-(MAR) System, would be a module that could segment patient’s form (obtained as a 3D Model) 
-into its constituent body parts and identify the body part that corresponds to the volumetric
-medical data so that the two models may be registered.
+[Download paper here](http://neha191091.github.io/files/seminar-nlp.pdf)
 
-The implementation of this segmentation module is the main goal of this InterDisciplinary
-Project. This is accomplished via first segmenting the depth maps obtained in the process 
-of creating the patient’s 3D model using a Deep Convolutional Neural Network and then combining 
-the labelled images via KinectFusion to obtain a segmented 3D Model.
-
-[Download report here](http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf)
-
-Recommended citation: Das, Neha. (2018). Development of a system that allows for the semantic segmentation of a 3D model of a human body into its constituent parts.
+Recommended citation: Das, Neha. (2018). Seminar: Deep Learning Sequence Modelling (Natural Language Processing).
