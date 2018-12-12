@@ -6,7 +6,7 @@ excerpt: 'The work presented in this report is a part of an effort towards a too
 date: 2018-08-01
 paperurl: 'http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf'
 ---
-*Abstract*
+*Abstracts*
 
 Development of systems that are equipped to provide a view into a patient’s body
 form an essential part of the technological advancements needed to improve medical 
