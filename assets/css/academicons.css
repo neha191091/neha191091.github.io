@@ -325,6 +325,6 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-.fa-href > a {
+a.fa-href {
     color: #52adc8!important;
 }
