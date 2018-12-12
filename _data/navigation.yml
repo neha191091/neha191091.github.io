@@ -3,7 +3,7 @@ main:
     - title: "Projects"
       url: /projects/
 
-    - title: "Publications"
+    - title: "Technical Reports"
       url: /publications/
 
     - title: "Posters"
