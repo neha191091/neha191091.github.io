@@ -14,4 +14,4 @@ This project obtains and preprocess the training data, trains the segmentation g
 Further development of this work (not included in this repository) focused on combining the segmented depth maps using KinectFusion to provide a segmented 3D point cloud/mesh.
 You can read a detailed report on this work [here](http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf)
 
-Find the project[here](https://github.com/neha191091/human-segmentation) on github.
+Find the project [here](https://github.com/neha191091/human-segmentation) on github.
