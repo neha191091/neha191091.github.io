@@ -11,6 +11,7 @@ This project is a consequence of an internal course requirement during my master
 
 This project obtains and preprocess the training data, trains the segmentation graph, and freezes the graph to a protobuf file for later inference in C++.
 
+
 Further development of this work (not included in this repository) focused on combining the segmented depth maps using KinectFusion to provide a segmented 3D point cloud/mesh.
 You can read a detailed report on this work [here](http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf)
 
