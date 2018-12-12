@@ -35,9 +35,7 @@
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
 
-    {% if post.code %} <span style="font-weight: bold;">Code: </span><a href="{{ post.code }}" class="fa-href">{{ post.code }}</a>.</br>{% endif %}
-    {% if post.report %} <span style="font-weight: bold;">Report: </span><a href="{{ post.report }}" class="fa-href">{{ post.report }}</a>.</br>{% endif %}
-    {% if post.poster %} <span style="font-weight: bold;">Poster: </span><a href="{{ post.poster }}" class="fa-href">{{ post.poster }}</a>.</br>{% endif %}
+    {% if post.img %} <img href="{{ post.img_pdf }}" class="fa-href">{{ post.img }}</img>% endif %}
 
   </article>
 </div>
