@@ -1,5 +1,6 @@
 ---
-title: "Development of a system that allows for the semantic segmentation of a 3D model of a human body into its constituent parts"
+title: "Development of a system that allows for the semantic segmentation of a 3D model 
+of a human body into its constituent parts"
 collection: publications
 permalink: /publication/2018-08-01-3d-human-segmentation
 excerpt: 'The work presented in this report is a part of an effort towards a tool that allows a real-time 

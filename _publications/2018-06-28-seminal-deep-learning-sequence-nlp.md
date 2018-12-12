@@ -2,7 +2,7 @@
 title: "Seminar: Deep Learning Sequence Modelling (Natural Language Processing)"
 collection: publications
 permalink: /publication/2018-06-28-seminal-deep-learning-sequence-nlp
-excerpt: 'This paper explores the literature around deep learning sequence models, especially in context of NLP'
+excerpt: 'This work explores the literature around deep learning sequence models, especially in context of NLP'
 date: 2018-06-28
 paperurl: 'http://neha191091.github.io/files/seminar-nlp.pdf'
 citation: 'Das, Neha. (2018). Seminar: Deep Learning Sequence Modelling (Natural Language Processing).'
