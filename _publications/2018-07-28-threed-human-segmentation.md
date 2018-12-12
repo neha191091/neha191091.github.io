@@ -2,7 +2,7 @@
 title: "3D Human Body Segmentation"
 collection: publications
 permalink: /publication/2018-07-28-threed-human-segmentation
-excerpt: 'This work presents a novel method for semantically segmenting a 3D point cloud of a human.'
+excerpt: 'This work presents a novel method for semantically segmenting a 3D point cloud of a human'
 date: 2018-07-28
 paperurl: 'http://neha191091.github.io/files/seminar-nlp.pdf'
 ---
