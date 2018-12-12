@@ -2,8 +2,7 @@
 title: "3D Human Body Segmentation"
 collection: publications
 permalink: /publication/2018-08-01-threed-human-segmentation
-excerpt: 'The work presented in this report is a part of an effort towards a tool that allows a real-time 
-view into a patient's body for inter-operative guidance.'
+excerpt: 'The work presented in this report is a part of an effort towards a tool that allows a real-time view into a patient's body for inter-operative guidance.'
 date: 2018-08-01
 paperurl: 'http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf'
 ---
