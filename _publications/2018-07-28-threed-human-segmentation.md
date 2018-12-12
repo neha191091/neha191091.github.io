@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Deep Learning Sequence Modelling (Natural Language Processing)"
+title: "3D Human Body Segmentation"
 collection: publications
 permalink: /publication/2018-07-28-threed-human-segmentation
 excerpt: 'This work explores the literature around deep learning sequence models, especially in context of NLP'
