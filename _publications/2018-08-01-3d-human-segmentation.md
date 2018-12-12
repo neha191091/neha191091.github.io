@@ -6,7 +6,6 @@ excerpt: 'The work presented in this report is a part of an effort towards a too
 view into a patient's body for inter-operative guidance.'
 date: 2018-08-01
 paperurl: 'http://neha191091.github.io/files/Semantic_Segmentation_IDP_Report.pdf'
-citation: 'Das, Neha. (2018). Development of a system that allows for the semantic segmentation of a 3D model of a human body into its constituent parts.'
 ---
 *Abstract*
 
