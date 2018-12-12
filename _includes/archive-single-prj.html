@@ -1,9 +1,9 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% if post.header.body %}
+  {% assign teaser = post.header.body %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign teaser = site.body %}
 {% endif %}
 
 {% if post.id %}
