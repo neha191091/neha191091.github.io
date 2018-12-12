@@ -1,5 +1,5 @@
 ---
-title: "human-segmentation"
+title: "Semantic Segmentation of human depth images"
 collection: projects
 permalink: /projects/human-segmentation
 type: "Inter Disciplinary Project"

@@ -1,5 +1,5 @@
 ---
-title: "IAF_Dynamics"
+title: "Dynamics with Inverse Autoregressive Flows"
 collection: projects
 permalink: /projects/IAF_Dynamics
 type: "Practical Project"
