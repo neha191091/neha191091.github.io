@@ -5,6 +5,8 @@ permalink: /projects/IAF_Dynamics
 type: "Practical Project"
 venue: "Chair of Robotics and Embedded Systems, TUM"
 location: "Munich"
+code: https://github.com/neha191091/IAF_Dynamics
+poster: http://neha191091.github.io/files/IAF_Dynamics.jpg
 ---
 
 Through this work, we propose the incorporation of Inverse Autoregressive Flows

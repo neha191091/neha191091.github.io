@@ -38,5 +38,8 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.code %}<p>You can find the code for this project <a href="{{ post.code }}">here</a>.</p>{% endif %}
+    {% if post.report %}<p>You can find a detailed report for the project <a href="{{ post.report }}">here</a>.</p>{% endif %}
+    {% if post.poster %}<p>You can find a poster for the project <a href="{{ post.poster }}">here</a>.</p>{% endif %}
   </article>
 </div>
