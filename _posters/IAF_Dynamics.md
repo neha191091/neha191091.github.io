@@ -1,7 +1,7 @@
 ---
 title: "IAF_Dynamics"
-collection: projects
-permalink: /projects/IAF_Dynamics
+collection: posters
+permalink: /posters/IAF_Dynamics
 type: "Practical Project"
 venue: "Chair of Robotics and Embedded Systems, TUM"
 location: "Munich"
