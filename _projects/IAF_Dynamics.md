@@ -8,7 +8,7 @@ location: "Munich"
 ---
 
 Through this work, we propose the incorporation of Inverse Autoregressive Flows
-for in determining the state space (latents) in a dynamical system model. 
+for determining the state space (latents) in a dynamical system model. 
 This reduces the number of samples that need to be obtained in order to approximate 
 the posterior distribution (and thus the underlying states/latents for a set of 
 observations and controls) from one per time step to one per sequence of observations. 
