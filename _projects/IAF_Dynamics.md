@@ -18,6 +18,7 @@ Our experiments with pendulum-v01, an environment from openai gym confirmed that
 accuracy with which the observations are generated are close to the state of the art 
 for sequence models.
 
+
 The results from this work, along with its benefits and issues are present in [this](https://github.com/neha191091/human-segmentation) poster.
 
-Find the project[here](https://github.com/neha191091/IAF_Dynamics) on github.
+Find the project [here](https://github.com/neha191091/IAF_Dynamics) on github.
