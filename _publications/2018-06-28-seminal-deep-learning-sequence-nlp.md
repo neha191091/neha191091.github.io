@@ -16,6 +16,6 @@ tasks that involve processing and/or producing sequence data, especially in cont
 would additionally explore in detail, an application of sequence-to-sequence NLP - abstractive
 text summarization - with particular emphasis on methods from Nallapati et al. (2016)
 
-[Download paper here](http://neha191091.github.io/files/seminar-nlp.pdf)
+[Download report here](http://neha191091.github.io/files/seminar-nlp.pdf)
 
 Recommended citation: Das, Neha. (2018). Seminar: Deep Learning Sequence Modelling (Natural Language Processing).

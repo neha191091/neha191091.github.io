@@ -9,11 +9,7 @@ img: http://neha191091.github.io/files/IAF_Dynamics.jpg
 img_pdf: http://neha191091.github.io/files/IAF_Dynamics.pdf
 ---
 
-Through this work, we propose the incorporation of Inverse Autoregressive Flows
-for determining the state space (latents) in a dynamical system model. 
-This reduces the number of samples that need to be obtained in order to approximate 
-the posterior distribution (and thus the underlying states/latents for a set of 
-observations and controls) from one per time step to one per sequence of observations. 
-Our experiments with pendulum-v01, an environment from openai gym confirmed that the 
-accuracy with which the observations are generated are close to the state of the art 
-for sequence models.
+This work uses Inverse Autoregressive Flows to model each time-step in a sequential data-point 
+and then compares this architecture with the (then) state of the art on the open-ai gym pendulum
+dataset to show that the current method is only slightly worse, but samples lesser number of
+times.

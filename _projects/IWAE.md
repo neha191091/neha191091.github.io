@@ -18,10 +18,10 @@ we instead maximize the lower bound by assuming a variational posterior (since w
 compute the true one or sample from it.)
 
 Unfortunately, VAE assumes the variational posterior form to be factorial which restricts the
-capacity of the generative model to only simple distributions with factorial true posterior. 
+capacity of the model to distributions with factorial true posterior. 
 IWAE overcomes this assumption by sampling multiple times from the approximate posterior to get 
 a tighter lower bound on p(x). The variational posterior provably approaches the true posterior
-in the limit of infinite samples.
+in the limit value of infinite samples.
 
 This work re-implements IWAE and VAE. The results and comparisons between these two models 
 are laid out in a poster that can be downloaded by following the link below.

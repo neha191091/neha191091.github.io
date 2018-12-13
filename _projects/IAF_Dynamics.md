@@ -17,6 +17,3 @@ observations and controls) from one per time step to one per sequence of observa
 Our experiments with pendulum-v01, an environment from openai gym confirmed that the 
 accuracy with which the observations are generated are close to the state of the art 
 for sequence models.
-
-The results from this work, along with its benefits and issues are presented in a poster, 
-that can be downloaded by following the link below.
