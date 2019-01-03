@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-06-28-seminal-deep-learning-sequence-nlp
 excerpt: 'This work explores the literature around deep learning sequence models, especially in context of NLP'
 date: 2018-06-28
-paperurl: 'http://neha191091.github.io/files/seminar-nlp.pdf'
+paperurl: 'http://neha191091.github.io/files/seminar_nlp.pdf'
 ---
 *Abstract*
 
@@ -16,6 +16,6 @@ tasks that involve processing and/or producing sequence data, especially in cont
 would additionally explore in detail, an application of sequence-to-sequence NLP - abstractive
 text summarization - with particular emphasis on methods from Nallapati et al. (2016)
 
-[Download report here](http://neha191091.github.io/files/seminar-nlp.pdf)
+[Download report here](http://neha191091.github.io/files/seminar_nlp.pdf)
 
 Recommended citation: Das, Neha. (2018). Seminar: Deep Learning Sequence Modelling (Natural Language Processing).
