@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a Master's student (informatics) at Technical University of Munich. I am also a Praktikantin at the AI Research team at Volkswagen AG. (Munich).
+Hi there! I am an AI Resident at Facebook AI Research (FAIR) in Menlo Park, California. I am a part of the Robotics LAB at FAIR and am working currently on exploration and representation learning for control and manipulation of robotic arms from visual data. 
 
 **BackGround**
 
-I completed my Bachelors from Delhi Technological University (New Delhi) in 2013. Following that, I worked for an year at McAfee as a Software Developer in Test, 
-where I was involved with the test and development of a whitelisting product for Windows Operating Systems. This was followed 
-by two years at Epic Systems, where I worked as a Software Developer on several web based applications.
+I completed my Master's from Technical University of Munich. During the time, I was also a Praktikantin at the AI Research team under Prof. Dr. Patrick Van der Smagt at Volkswagen AG. I completed my master's thesis, focusing on the development state-space models for learning dynamics for control at the lab during this period. 
 
 **Interests**
 
@@ -25,5 +23,4 @@ goal state that satisfies desired properties, or given a chain of previous obser
 I am also interested in learning control policies for a dynamic environment that utilize intrinsic motivation techniques. This is 
 especially useful when extrinsic rewards are sparse or unavailable for a given task (such as exploration).
 
-Apart from the above, I enjoy doodling and have recently found a fondness for writing. I started with small stuff - like writing about
-a few of my travel experiences and a few (mostly lame) jokes along with my partner. You can check them out [here](https://www.grumpychickens.com/)!!
+Apart from the above, I enjoy doodling, reading mystery novels and have recently found a fondness for writing!
