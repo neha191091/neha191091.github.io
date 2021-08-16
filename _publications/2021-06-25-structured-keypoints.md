@@ -2,7 +2,7 @@
 title: "Learning Extended Body Schemas from Visual Keypoints for Object Manipulation."
 collection: publications
 permalink: /publication/2021-06-25-structured-keypoints
-excerpt: 'In this work, we develop an self-supervised approach that can extend a robot's kinematic model when grasping an object from visual latent representations.'
+excerpt: "Humans have impressive generalization capabilities when it comes to manipulating objects and tools in completely novel environments. These capabilities are, at least partially, a result of humans having internal models of their bodies and any grasped object. How to learn such body schemas for robots remains an open problem. In this work, we develop an self-supervised approach that can extend a robot's kinematic model when grasping an object from visual latent representations."
 date: 2021-06-25
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2011.03882'
