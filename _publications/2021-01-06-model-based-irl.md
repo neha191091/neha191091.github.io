@@ -2,7 +2,7 @@
 title: "Model-Based Inverse Reinforcement Learning from Visual Demonstrations"
 collection: publications
 permalink: /publication/2021-01-06-model-based-irl
-excerpt: 'In this work, we propose to apply meta-learning to learn structured, state-dependent loss functions during a meta-training phase. This allows us to quickly adapt the model to changes in dynamics'
+excerpt: 'In this work, we present a gradient-based inverse reinforcement learning framework that utilizes a pre-trained visual dynamics model to learn cost functions when given only visual human demonstrations. The learned cost functions are then used to reproduce the demonstrated behavior via visual model predictive control.'
 date: 2021-01-06
 venue: 'CoRL'
 paperurl: 'https://corlconf.github.io/paper_432'
