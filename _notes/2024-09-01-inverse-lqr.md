@@ -6,18 +6,7 @@ tags:
   - IOC
   - IRL
   - LQR
-excerpt: Given a trajectory of states and actions $\{\mathbf{x}^\*\_{0:T},\mathbf{u}^\*\_{0:T-1}\}$ that is solution of Linear Quadratic Regulator optimization where $\mathbf{R}=\mathbf{I}$<br>
-
-from the following system of linear discrete dynamics:<br>
-$\mathbf{x}_{t+1}= \mathbf{A}_t\mathbf{x}_t + \mathbf{B}_t\mathbf{u}_t$
-
-where:<br>
-$\mathbf{x}_t\in\mathbb{R}^{n}$ is the state,<br> 
-$\mathbf{u}_t\in\mathbb{R}^{m}$, is the action,<br>
-$\mathbf{A}_t\in\mathbb{R}^{n\times n}$ is the state-transition matrix,<br>
-$\mathbf{B}_t\in\mathbb{R}^{n\times m}$ is the input-transition matrix
-
-the problem is to find $\mathbf{Q}^*$ that generates the trajectory
+excerpt: Given a trajectory of states and actions that is solution of Linear Quadratic Regulator optimization, the problem is to find cost parameters that generates the trajectory
 ---
 
 Problem Statement
