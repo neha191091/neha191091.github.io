@@ -68,3 +68,26 @@ $\mathbf{x}^\*\_{t+1}=\mathbf{A}\mathbf{x}^\*\_t - \mathbf{B}\mathbf{B}^T\mathbf
 $\implies\mathbf{B}\mathbf{B}^T\mathbf{\lambda}\_{t+1}=\mathbf{A}\mathbf{x}^\*\_{t}-\mathbf{x}^\*\_{t+1}$<br>
 $\implies\mathbf{\lambda}\_{t+1}=(\mathbf{B}\mathbf{B}^T)^{-1}(\mathbf{A}\mathbf{x}^\*\_{t}-\mathbf{x}^\*\_{t+1})\quad\dots\quad(6)$
 
+Solution
+-----
+
+### Algorithm for exact solution
+
+1. Find $\mathbf{\lambda}\_t=(\mathbf{B}\mathbf{B}^T)^{-1}(\mathbf{A}\mathbf{x}^\*\_{t-1}-\mathbf{x}^\*\_{t}); \qquad t=1, \dots, T$
+2. Calculate $\mathbf{\gamma}\_t=\mathbf{\lambda}\_{t}-\mathbf{A}^T\mathbf{\lambda}\_{t+1}; \qquad\qquad t=1, \dots, T$
+3. $\mathbf{Q}\mathbf{x}^\*\_t=\mathbf{\gamma}\_t$<br>
+$\implies\mathbf{Q}\mathbf{X}^\*=\mathbf{\Gamma}$<br>
+$\implies\mathbf{Q}=\mathbf{\Gamma}\underbrace{{\mathbf{X}^\*}^{T}(\mathbf{X}^\*{\mathbf{X}^\*}^{T})^{-1}}\_{Moore-penrose\ inverse}$,  
+where 
+$\mathbf{X}^\*=[\mathbf{x}^\*\_1, \dots, \mathbf{x}^\*\_T]$,
+$\mathbf{\Gamma}=[\mathbf{\gamma}\_1, \dots, \mathbf{\gamma}\_T]$
+
+### Soft IOC Solution
+
+Assuming $\mathcal{H}\equiv\{0\leq t<T: \mathbf{u}\_t \in \text{int}\ \mathcal{U}\}$. <br>
+the soft IOC solution is given by:
+
+$\inf\_{\mathbf{\theta},\mathbf{\lambda}\_{0,T}} \sum\_{t\_k\in\mathcal{H}}\Vert\nabla\_{\mathbf{u}\_t}H\_t(\mathbf{x}^\*\_t,\mathbf{u}^\*\_t,\mathbf{\lambda}\_{t+1},\mathbf{\theta})\Vert^2 + \sum\_0^{T-1}\Vert\mathbf{\lambda}\_t-\nabla\_{\mathbf{x}\_t}H\_t(\mathbf{x}^\*\_t, \mathbf{u}^\*\_t,\mathbf{\lambda}\_{t+1},\mathbf{\theta})\Vert^2+\Vert\mathbf{\lambda}\_T-\nabla\_{\mathbf{x}\_T}F(\mathbf{x}^\*\_T)\Vert^2$<br>
+$=\inf\_{\mathbf{Q},\mathbf{\lambda}\_{0,T}} \sum\_{t\_k\in\mathcal{H}}\Vert\mathbf{u}^\*\_t + \mathbf{B}^T\mathbf{\lambda}\_{t+1}\Vert^2 + \sum_0^{T-1}\Vert\mathbf{\lambda}\_t-\mathbf{Q}\mathbf{x}^\*\_t - \mathbf{A}^T\mathbf{\lambda}\_{t+1}\Vert^2+\Vert\mathbf{\lambda}\_T-\mathbf{Q}\mathbf{x}^\*\_T\Vert^2$
+
+
