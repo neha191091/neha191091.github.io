@@ -8,13 +8,12 @@ tags:
   - LQR
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Dynamics
+-----
+Given a linear system of discrete dynamics:
+$\boldsymbol{x}_{t+1}= \bold{A}_t\boldsymbol{x}_t + \bold{B}_t\boldsymbol{u}_t$
+where:
+$\boldsymbol{x}_t\in\mathbb{R}^{n}$ is the state, 
+$\boldsymbol{u}_t\in\mathbb{R}^{m}$, is the action
+$\bold{A}_t\in\mathbb{R}^{n\times n}$ is the state-transition matrix
+$\bold{B}_t\in\mathbb{R}^{n\times m}$ is the input-transition matrix
