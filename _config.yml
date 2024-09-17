@@ -82,17 +82,18 @@ analytics:
 author:
   name             : "Neha Das"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Student and Enthusiast"
-  location         : "Munich"
+  bio              : "Doctoral student"
+  # location         : "Munich"
   employer         : "Technical University of Munich"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MRYnqOEAAAAJ"
-  email            : "neha191091@gmail.com"
+  officewebsite    : "https://www.ce.cit.tum.de/en/itr/das/"
+  email            : "neha.das@tum.de"
   # uri              :
   # bitbucket        :
   # codepen          :
   # dribbble         :
   # flickr           :
-  facebook         : "neha.das.52"
+  # facebook         : "neha.das.52"
   # foursquare       :
   github           : "neha191091"
   # google_plus      :

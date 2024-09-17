@@ -1,16 +1,17 @@
 # main links links
 main:
-    - title: "Projects"
-      url: /projects/
 
     - title: "Publications"
       url: /publications/
 
-    - title: "Posters"
-      url: /posters/
-
     - title: "Notes"
       url: /notes/
+
+    - title: "Previous projects"
+      url: /projects/
+
+    - title: "Previous posters"
+      url: /posters/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -24,8 +25,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-    - title: "Resume"
-      url:  https://neha191091.github.io/files/resume.pdf
+  #  - title: "Resume"
+  #    url:  https://neha191091.github.io/files/resume.pdf
 
   # - title: "Hello"
   #   url: /hello/
