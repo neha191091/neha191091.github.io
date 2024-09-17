@@ -19,7 +19,8 @@ $\mathbf{u}_t\in\mathbb{R}^{m}$, is the action,<br>
 $\mathbf{A}_t\in\mathbb{R}^{n\times n}$ is the state-transition matrix,<br>
 $\mathbf{B}_t\in\mathbb{R}^{n\times m}$ is the input-transition matrix
 
-## Finite Horizon Cost
+Finite Horizon Cost
+-----
 
 ### Instantaneous Cost<br>
 $C(\mathbf{x}_t, \mathbf{u}_t)= \mathbf{x}_t^T\mathbf{Q}\mathbf{x}_t + \mathbf{u}_t^T\mathbf{Q}\mathbf{u}_t$
