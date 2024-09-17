@@ -77,9 +77,9 @@ Solution
 2. Calculate $\mathbf{\gamma}\_t=\mathbf{\lambda}\_{t}-\mathbf{A}^T\mathbf{\lambda}\_{t+1}; \qquad\qquad t=1, \dots, T$
 3. $\mathbf{Q}\mathbf{x}^\*\_t=\mathbf{\gamma}\_t$<br>
 $\implies\mathbf{Q}\mathbf{X}^\*=\mathbf{\Gamma}$<br>
-$\implies\mathbf{Q}=\mathbf{\Gamma}\underbrace{{\mathbf{X}^\*}^{T}(\mathbf{X}^\*{\mathbf{X}^\*}^{T})^{-1}}\_{Moore-penrose\ inverse}$,  
+$\implies\mathbf{Q}=\mathbf{\Gamma}{\mathbf{X}^\*}^{T}(\mathbf{X}^\*{\mathbf{X}^\*}^{T})^{-1}}$,  
 where 
-$\mathbf{X}^\*=[\mathbf{x}^\*\_1, \dots, \mathbf{x}^\*\_T]$,
+$\mathbf{X}^\*=[\mathbf{x}^\*\_1, \dots, \mathbf{x}^\*\_T]$,<br>
 $\mathbf{\Gamma}=[\mathbf{\gamma}\_1, \dots, \mathbf{\gamma}\_T]$
 
 ### Soft IOC Solution
