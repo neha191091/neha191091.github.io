@@ -1,7 +1,7 @@
 ---
 title: 'Inverse LQR'
 date: 2024-09-01
-permalink: /notes/2024/09/inverse-lqr/
+permalink: /notes/2024/09/inverselqr
 tags:
   - IOC
   - IRL
