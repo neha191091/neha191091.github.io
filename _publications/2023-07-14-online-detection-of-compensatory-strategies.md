@@ -1,0 +1,12 @@
+---
+title: "Online detection of compensatory strategies in human movement with supervised classification: a pilot study."
+collection: publications
+permalink: /publication/2023-07-14-online-detection-of-compensatory-strategies
+excerpt: "Stroke survivors often compensate for the loss of motor function in their distal joints by altered use of more proximal joints and body segments. Since this can be detrimental to the rehabilitation process in the long-term, it is imperative that such movements are indicated to the patients and their caregiver. This is a difficult task since compensation strategies are varied and multi-faceted. Recent works that have focused on supervised machine learning methods for compensation detection often require a large training dataset of motions with compensation location annotations for each time-step of the recorded motion. In contrast, this study proposed a novel approach that learned a linear classifier from energy-based features to discriminate between healthy and compensatory movements and identify the compensating joints without the need for dense and explicit annotations."
+date: 2023-07-14
+venue: 'Frontiers in Neurorobotics'
+paperurl: 'https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2023.1155826/full'
+citation: 'Das, N., Endo, S., Patel, S., Krewer, C., & Hirche, S. Online detection of compensatory strategies in human movement with supervised classification: a pilot study." <i>2023 Frontiers in Neurorobotics, 17, 1155826</i>'
+---
+*Abstract*
+Stroke survivors often compensate for the loss of motor function in their distal joints by altered use of more proximal joints and body segments. Since this can be detrimental to the rehabilitation process in the long-term, it is imperative that such movements are indicated to the patients and their caregiver. This is a difficult task since compensation strategies are varied and multi-faceted. Recent works that have focused on supervised machine learning methods for compensation detection often require a large training dataset of motions with compensation location annotations for each time-step of the recorded motion. In contrast, this study proposed a novel approach that learned a linear classifier from energy-based features to discriminate between healthy and compensatory movements and identify the compensating joints without the need for dense and explicit annotations.
