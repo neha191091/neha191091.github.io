@@ -63,7 +63,7 @@ Skills
 
 Selected Publications
 ======
-A more extensive list can be found in <a href="{{ https://scholar.google.com/citations?user=MRYnqOEAAAAJ }}" class="fa-href">{{ Google Scholar }}</a>.
+A more extensive list can be found in <a href="https://scholar.google.com/citations?user=MRYnqOEAAAAJ" class="fa-href">Google Scholar</a>.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
