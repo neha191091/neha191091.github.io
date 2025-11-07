@@ -7,11 +7,11 @@ main:
     - title: "Notes"
       url: /notes/
 
-    - title: "Previous projects"
+    - title: "Student Projects"
       url: /projects/
 
-    - title: "Previous posters"
-      url: /posters/
+  #  - title: "Student Project Posters"
+  #    url: /posters/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -25,7 +25,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  #  - title: "Resume"
+    - title: "Resume"
+      url: /resume/  
   #    url:  https://neha191091.github.io/files/resume.pdf
 
   # - title: "Hello"
