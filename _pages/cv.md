@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 - Thesis: *Data-Driven Analysis of Human Motor Behavior for Medical Applications*
 ### MSc. Informatics, [Technical University of Munich](https://www.tum.de/en/), Aug 2019
 - Thesis (Conducted at {Volkswagen Group AI Research, Germany}): *Learning State-Space Models of Camera-Based Robots for Intrinsically Motivated Control*
-- Passed with High Distinction (Top 9.4 percentile).
+- Passed with High Distinction.
 ### BTech. Software Engineering, [Delhi Technological University](http://dtu.ac.in/), May 2013
 - Final Project: *Tower Defense Game Implementing Bee Colony Algorithm*.
 - First Division with Distinction.
