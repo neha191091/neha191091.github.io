@@ -24,17 +24,17 @@ Education
 Work experience
 ======
 ### Research Associate, Technical University of Munich, Germany, Oct 2020 - Present
-- **Contributions to Horizon 2020 project [ReHyb](https://www.ce.cit.tum.de/itr/projekte/vergangene-projekte-1/h2020-project-rehyb/)**: 
+- **Contributions to Horizon 2020 project <a href="https://www.ce.cit.tum.de/itr/projekte/vergangene-projekte-1/h2020-project-rehyb/" class="fa-href">ReHyb</a>**: 
   - Developed *explainable, data-driven* algorithms for detecting anomalous motion in stroke patients using *unsupervised anomaly detection* techniques and *generative modeling*.
   - Designed *inverse optimal control* methods to mitigate compensatory (abnormal motion by stroke patients) movements via robotic feedback.
   - Implemented a *data-driven* framework for enabling FES-assisted motion through *automatic detection of intended movements* from muscular activity.
   - Led *experimental studies* - protocol design, participant recruitment, and creation of web-based tools for motion data collection and labeling. Acquisition and processing of EMG-based, optical-marker and video-based datasets from healthy and post-stroke participants for model training and validation.
-- **Contributions to Horizon 2020 project [ConPDMode](https://www.ce.cit.tum.de/itr/projekte/vergangene-projekte-1/h2020-erc-poc-project-con-pdmode/)**: 
+- **Contributions to Horizon 2020 project <a href="https://www.ce.cit.tum.de/itr/projekte/vergangene-projekte-1/h2020-erc-poc-project-con-pdmode/" class="fa-href">ConPDMode</a>**: 
   - Implemented and *compared machine learning models* (e.g., Gaussian Processes, ensemble, and deep networks) for Parkinson's Disease (PD) symptom severity classification from wearable IMU data and *Identified key challenges* in their application, including uncertainty estimation and data imbalance.
   - Proposed a *novel uncertainty quantification approach* for deep learning to detect data gaps via epistemic uncertainty estimation.
   - Designed methods to *address dataset imbalance* in PD symptom classification.
   - Designed the prototype for a web and mobile application for motion data visualization and PD symptom severity classification with interfaces for physicians and patients.
-- **Contributions to Horizon 2020 project [CO-MAN](https://www.ce.cit.tum.de/itr/projekte/h2020-erc-consolidator-co-man/)**: 
+- **Contributions to Horizon 2020 project <a href="https://www.ce.cit.tum.de/itr/projekte/h2020-erc-consolidator-co-man/" class="fa-href">CO-MAN</a>**: 
   - Developed a safe, *user-preference–driven* navigation framework using *Preferential Bayesian Optimization*.
   - Contributed to designing a safe control approach for unknown dynamics with *Control Barrier Functions*.
 - **Supervision experience**: 
