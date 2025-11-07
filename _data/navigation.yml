@@ -14,7 +14,7 @@ main:
     - title: "Notes"
       url: /notes/
 
-    - title: "Projects"
+    - title: "Code"
       url: /projects/
 
   #  - title: "Student Project Posters"
