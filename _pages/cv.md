@@ -61,8 +61,9 @@ Skills
 - **Concepts**: Machine Learning, Explainable AI, Inverse Optimal Control, Reinforcement Learning, Generative AI, Anomaly Detection, Probabilistic Graphical Models, Learning from Feedback, Human-centered AI, Large Language Models
 
 
-Publications
+Selected Publications
 ======
+A more extensive list can be found in [Google Scholar](https://scholar.google.com/citations?user=MRYnqOEAAAAJ)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
